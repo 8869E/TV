@@ -123,9 +123,9 @@ http://114.252.225.255:8000/rtp/239.3.1.153:8136$北京组播
 http://114.252.225.255:8000/rtp/239.3.1.184:8001$北京组播
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="📺中央频道",CCTV-17农业农村
 http://114.252.225.255:8000/rtp/239.3.1.151:8144$北京组播
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="📺中央频道",CCTV-4欧洲
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="📺中央频道",CCTV-4欧洲
 http://114.252.225.255:8000/rtp/239.3.1.213:4220$北京组播
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="📺中央频道",CCTV-4美洲
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="📺中央频道",CCTV-4美洲
 http://114.252.225.255:8000/rtp/239.3.1.214:4220$北京组播
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺中央频道",CCTV-1综合
 http://116.227.10.196:2048/udp/239.45.3.145:5140$上海组播
@@ -175,7 +175,8 @@ http://36.46.98.55:8010/rtp/239.111.205.13:5140$陕西组播
 http://36.46.98.55:8010/rtp/239.112.205.223:5140$陕西组播
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="📺中央频道",CCTV-7国防军事
 http://36.46.98.55:8010/rtp/239.112.205.83:5140$陕西组播
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="📺中央频道",CCTV-8电视剧http://36.46.98.55:8010/rtp/239.112.205.224:5140$陕西组播
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="📺中央频道",CCTV-8电视剧
+http://36.46.98.55:8010/rtp/239.112.205.224:5140$陕西组播
 undefined
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="📺中央频道",CCTV-9纪录
 http://36.46.98.55:8010/rtp/239.112.205.85:5140$陕西组播
@@ -189,7 +190,7 @@ http://36.46.98.55:8010/rtp/239.112.205.88:5140$陕西组播
 http://36.46.98.55:8010/rtp/239.112.205.91:5140$陕西组播
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="📺中央频道",CCTV-15音乐
 http://36.46.98.55:8010/rtp/239.112.205.214:5140$陕西组播
-#EXTINF:-1 tvg-name="CCTV16-4k" tvg-logo="https://live.fanmingming.com/tv/CCTV16-4k.png" group-title="📺中央频道",CCTV16-4k
+#EXTINF:-1 tvg-name="CCTV16-4k" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📺中央频道",CCTV16-4k
 http://36.46.98.55:8010/rtp/239.111.205.134:5140$陕西组播
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="📺中央频道",CCTV-17农业农村
 http://36.46.98.55:8010/rtp/239.112.205.211:5140$陕西组播
@@ -1913,7 +1914,7 @@ http://223.105.252.37/PLTV/3/224/3221227609/index.m3u8
 http://223.105.252.39/PLTV/3/224/3221227217/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="江苏移动",山东卫视
 http://223.105.252.39/PLTV/3/224/3221227258/index.m3u8
-#EXTINF:-1 tvg-name="CCTV高尔夫·网球" tvg-logo="https://live.fanmingming.com/tv/CCTV高尔夫·网球.png" group-title="江苏移动",CCTV高尔夫·网球
+#EXTINF:-1 tvg-name="CCTV高尔夫·网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="江苏移动",CCTV高尔夫·网球
 http://223.105.252.55/PLTV/4/224/3221228138/index.m3u8
 #EXTINF:-1 tvg-name="4K修复" tvg-logo="https://live.fanmingming.com/tv/4K修复.png" group-title="江苏移动",4K修复
 http://223.105.252.55/PLTV/4/224/3221228141/index.m3u8
@@ -1927,9 +1928,9 @@ http://223.105.252.55/PLTV/3/224/3221228427/index.m3u8
 http://223.105.252.49/PLTV/3/224/3221227630/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="江苏移动",金鹰纪实
 http://223.105.252.53/PLTV/3/224/3221228110/index.m3u8
-#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/精品体育.png" group-title="江苏移动",精品体育
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="江苏移动",精品体育
 http://223.105.252.49/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://live.fanmingming.com/tv/精品大剧.png" group-title="江苏移动",精品大剧
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品大剧.png" group-title="江苏移动",精品大剧
 http://223.105.252.49/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="江苏移动",中华美食
 http://223.105.252.49/PLTV/3/224/3221227647/index.m3u8
