@@ -186,6 +186,7 @@ CCTV17,http://1.62.170.63:8886/udp/229.58.190.211:5000$黑龙江组播
 湖南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225610/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225612/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
@@ -300,6 +301,8 @@ CCTV17,http://1.62.170.63:8886/udp/229.58.190.211:5000$黑龙江组播
 兵团卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226439/index.m3u8
 康巴卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225660/index.m3u8
 安多卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225659/index.m3u8
+
+
 北京卫视,http://114.252.225.255:8000/rtp/239.3.1.241:8000$北京组播
 湖南卫视,http://114.252.225.255:8000/rtp/239.3.1.132:8012$北京组播
 东方卫视,http://114.252.225.255:8000/rtp/239.3.1.136:8032$北京组播
@@ -548,7 +551,7 @@ CCTV17,http://1.62.170.63:8886/udp/229.58.190.211:5000$黑龙江组播
 
 🎮游戏频道,#genre#
 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy
-
+哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225675/index.m3u8
 
 
 🐼动画频道,#genre#
@@ -560,11 +563,12 @@ CCTV14,http://116.227.10.196:2048/udp/239.45.3.23:5140$上海组播
 CCTV14,http://1.62.170.63:8886/udp/229.58.190.159:5000$黑龙江组播
 CCTV14,http://1.62.170.63:8886/udp/229.58.190.137:5000$黑龙江组播
 
-黑莓动画 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225662/index.m3u8
-卡酷少儿 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
-哈哈炫动 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225657/index.m3u8
-优漫卡通 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225656/index.m3u8
-金鹰卡通 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225653/index.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225662/index.m3u8
+卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225657/index.m3u8
+优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225656/index.m3u8
+金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225653/index.m3u8
 
 哈哈炫动,http://beijinglive.online.domybox.com:91/live/XDKT-1500k/live.m3u8
 金鹰卡通,http://beijinglive.online.domybox.com:91/live/JYKT-1500k/live.m3u8
