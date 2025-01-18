@@ -627,6 +627,15 @@ CCTV14,http://1.62.170.63:8886/udp/229.58.190.137:5000$黑龙江组播
 
 🎬电影频道,#genre#
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
+NEWTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NEWTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NEWTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NEWTV黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+Thrill,https://stream1.freetv.fun/thrill-1.m3u8
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
+龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
+龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 百事通4K电影,http://116.227.10.196:2048/udp/239.45.1.42:5140
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225743/index.m3u8
 1905电影1,http://tv.8.138.7.223/tv/1905.php?id=1905a 
