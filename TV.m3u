@@ -333,7 +333,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226419/index.m3u8$移动丨
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8$移动丨回看
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="📺黑龙江频道",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226421/index.m3u8$移动丨回看
-#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业" group-title="📺黑龙江频道",黑龙江农业
+#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业.png" group-title="📺黑龙江频道",黑龙江农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226242/index.m3u8$移动丨回看
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江少儿.png" group-title="📺黑龙江频道",黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226304/index.m3u8$移动丨回看
@@ -343,7 +343,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226298/index.m3u8$移动丨
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226239/index.m3u8$移动丨回看
 #EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江新闻法治.png" group-title="📺黑龙江频道",黑龙江新闻
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226330/index.m3u8$移动丨回看
-#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业" group-title="📺黑龙江频道",黑龙江农业
+#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业.png" group-title="📺黑龙江频道",黑龙江农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226492/index.m3u8$移动丨回看
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江少儿.png" group-title="📺黑龙江频道",黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226371/index.m3u8$移动丨回看
@@ -367,9 +367,9 @@ http://39.134.65.151/PLTV/88888888/224/3221225965/1.m3u8?zheild
 http://39.134.65.149/PLTV/88888888/224/3221225992/1.m3u8?zheild
 #EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江新闻法治.png" group-title="📺黑龙江频道",黑龙江新闻
 http://39.134.65.151/PLTV/88888888/224/3221225992/1.m3u8?zheild
-#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业" group-title="📺黑龙江频道",黑龙江农业
+#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业.png" group-title="📺黑龙江频道",黑龙江农业
 http://39.134.65.147/PLTV/88888888/224/3221225998/1.m3u8?zheild
-#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业" group-title="📺黑龙江频道",黑龙江农业
+#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业.png" group-title="📺黑龙江频道",黑龙江农业
 http://39.134.65.151/PLTV/88888888/224/3221225998/1.m3u8?zheild
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江都市.png" group-title="📺黑龙江频道",黑龙江都市
 http://39.134.65.145/PLTV/88888888/224/3221225990/1.m3u8?zheild
@@ -387,7 +387,7 @@ http://39.134.65.149/PLTV/88888888/224/3221225971/1.m3u8
 http://39.134.65.149/PLTV/88888888/224/3221225965/1.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江新闻法治.png" group-title="📺黑龙江频道",黑龙江新闻
 http://39.134.65.149/PLTV/88888888/224/3221225967/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业" group-title="📺黑龙江频道",黑龙江农业
+#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业.png" group-title="📺黑龙江频道",黑龙江农业
 http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
 #EXTINF:-1 tvg-name="哈尔滨影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈尔滨影视.png" group-title="📺黑龙江频道",哈尔滨影视
 http://10.8.8.200/hls/5/index.m3u8$哈尔滨
@@ -399,7 +399,7 @@ http://10.8.8.200/hls/93/index.m3u8$哈尔滨
 http://10.8.8.200/hls/102/index.m3u8$哈尔滨
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江文体.png" group-title="📺黑龙江频道",黑龙江文体
 http://10.8.8.200/hls/103/index.m3u8$哈尔滨
-#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业" group-title="📺黑龙江频道",黑龙江农业
+#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业.png" group-title="📺黑龙江频道",黑龙江农业
 http://10.8.8.200/hls/4/index.m3u8$哈尔滨
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江影视.png" group-title="📺黑龙江频道",黑龙江影视
 http://10.8.8.200/hls/86/index.m3u8$哈尔滨
@@ -1067,7 +1067,7 @@ http://219.147.200.9:18080/newlive/live/hls/19/live.m3u8$牡丹江电信
 http://219.147.200.9:18080/newlive/live/hls/20/live.m3u8$牡丹江电信
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江文体.png" group-title="📡卫视频道",黑龙江文体
 http://219.147.200.9:18080/newlive/live/hls/21/live.m3u8$牡丹江电信
-#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业" group-title="📡卫视频道",黑龙江农业
+#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业.png" group-title="📡卫视频道",黑龙江农业
 http://219.147.200.9:18080/newlive/live/hls/22/live.m3u8$牡丹江电信
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江都市.png" group-title="📡卫视频道",黑龙江都市
 http://219.147.200.9:18080/newlive/live/hls/23/live.m3u8$牡丹江电信
@@ -1349,19 +1349,19 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 http://z.b.bkpcp.top/m.php?id=jbty
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/魅力足球.png" group-title="🏀体育频道",魅力足球
 http://z.b.bkpcp.top/m.php?id=mlzq
-#EXTINF:-1 tvg-name="皇马RMTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/皇马RMTV.png" group-title="🏀体育频道",皇马RMTV
+#EXTINF:-1 tvg-name="皇马RMTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/皇马.png" group-title="🏀体育频道",皇马RMTV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-name="欧洲足球1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欧洲足球1.png" group-title="🏀体育频道",欧洲足球1
+#EXTINF:-1 tvg-name="欧洲足球1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欧洲足球.png" group-title="🏀体育频道",欧洲足球1
 http://152.228.154.144/stream/DKQ6M3GWVG1/176.m3u8
-#EXTINF:-1 tvg-name="欧洲足球1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欧洲足球1.png" group-title="🏀体育频道",欧洲足球1
+#EXTINF:-1 tvg-name="欧洲足球1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欧洲足球.png" group-title="🏀体育频道",欧洲足球1
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
-#EXTINF:-1 tvg-name="欧洲足球2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欧洲足球2.png" group-title="🏀体育频道",欧洲足球2
+#EXTINF:-1 tvg-name="欧洲足球2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欧洲足球.png" group-title="🏀体育频道",欧洲足球2
 http://152.228.154.144/stream/DKQ6M3GWVG1/192.m3u8
-#EXTINF:-1 tvg-name="欧洲足球2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欧洲足球2.png" group-title="🏀体育频道",欧洲足球2
+#EXTINF:-1 tvg-name="欧洲足球2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欧洲足球.png" group-title="🏀体育频道",欧洲足球2
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
 #EXTINF:-1 tvg-name="高尔夫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/高尔夫台.png" group-title="🏀体育频道",高尔夫台
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="欧洲足球2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欧洲足球2.png" group-title="🏀体育频道",欧洲足球2
+#EXTINF:-1 tvg-name="欧洲足球2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欧洲足球.png" group-title="🏀体育频道",欧洲足球2
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
 #EXTINF:-1 tvg-name="咪咕1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕.png" group-title="🏀体育频道",咪咕1
 http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
@@ -1391,7 +1391,7 @@ http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
 http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
 #EXTINF:-1 tvg-name="咪咕18" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕.png" group-title="🏀体育频道",咪咕18
 http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
-#EXTINF:-1 tvg-name="咪咕19" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕19.png" group-title="🏀体育频道",咪咕19
+#EXTINF:-1 tvg-name="咪咕19" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕.png" group-title="🏀体育频道",咪咕19
 http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
 #EXTINF:-1 tvg-name="咪咕21" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕.png" group-title="🏀体育频道",咪咕21
 http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
@@ -1683,7 +1683,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226419/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="黑龙江移动",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226421/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业" group-title="黑龙江移动",黑龙江农业
+#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业.png" group-title="黑龙江移动",黑龙江农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226242/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江少儿.png" group-title="黑龙江移动",黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226304/index.m3u8
@@ -1693,7 +1693,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226298/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226239/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江新闻法治.png" group-title="黑龙江移动",黑龙江新闻
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226330/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业" group-title="黑龙江移动",黑龙江农业
+#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业.png" group-title="黑龙江移动",黑龙江农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226492/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江少儿.png" group-title="黑龙江移动",黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226371/index.m3u8
@@ -2121,7 +2121,7 @@ http://219.147.200.9:18080/newlive/live/hls/19/live.m3u8
 http://219.147.200.9:18080/newlive/live/hls/20/live.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江文体.png" group-title="牡丹江移动",黑龙江文体
 http://219.147.200.9:18080/newlive/live/hls/21/live.m3u8
-#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业" group-title="牡丹江移动",黑龙江农业
+#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://gitee.com/e8869e/mod/raw/master/Logo/黑龙江农业.png" group-title="牡丹江移动",黑龙江农业
 http://219.147.200.9:18080/newlive/live/hls/22/live.m3u8
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江都市.png" group-title="牡丹江移动",黑龙江都市
 http://219.147.200.9:18080/newlive/live/hls/23/live.m3u8
