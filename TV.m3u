@@ -1408,9 +1408,9 @@ http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
 http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 #EXTINF:-1 tvg-name="咪咕27" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕.png" group-title="🏀体育频道",咪咕27
 http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 tvg-name="ELEVEN体育1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ELEVENSPORTS1.png" group-title="🏀体育频道",ELEVEN体育1
+#EXTINF:-1 tvg-name="DAZN体育1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DAZN.png" group-title="🏀体育频道",DAZN体育1
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-name="ELEVEN体育2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ELEVENSPORTS2.png" group-title="🏀体育频道",ELEVEN体育2
+#EXTINF:-1 tvg-name="DAZN体育2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DAZN.png" group-title="🏀体育频道",DAZN体育2
 rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 tvg-name="欢笑剧场4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场.png" group-title="💰4K频道",欢笑剧场4k
 http://125.82.171.210:8888/udp/235.254.196.150:7980
