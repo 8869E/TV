@@ -344,7 +344,6 @@ NEWTV海外剧场,http://111.43.126.240:9003/hls/98/index.m3u8$五常移动
 
 🏀体育频道,#genre#
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8$黑龙江移动
-CCTV5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226469/index.m3u8$黑龙江移动
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$黑龙江移动
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$黑龙江移动
 CCTV16 4K,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
@@ -369,8 +368,6 @@ NEWTV精品纪录,http://111.43.126.240:9003/hls/88/index.m3u8$五常移动
 NEWTV炫舞未来,http://111.43.126.240:9003/hls/102/index.m3u8$五常移动
 DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
 DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
-劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
-魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 咪咕1,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
 咪咕2,http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
 咪咕3,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
