@@ -23,7 +23,12 @@ CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8$
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$黑龙江移动
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$黑龙江移动
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$黑龙江移动
+CCTV1,http://106.53.99.30/tv/cctv1.php$官源
+CCTV13,http://106.53.99.30/tv/cctv13.php$官源
 CCTV16,http://8.138.7.223/tv/cctv16.m3u8$官源
+CCTV1,http://lyt.net.cn:5678/udp/239.49.8.19:9614$未知
+CCTV2,http://lyt.net.cn:5678/udp/239.49.8.50:9802$未知
+CCTV3,http://lyt.net.cn:5678/udp/239.49.8.74:8000$未知
 CCTV1,http://10.8.8.200/hls/10/index.m3u8$哈尔滨
 CCTV2,http://10.8.8.200/hls/11/index.m3u8$哈尔滨
 CCTV3,http://10.8.8.200/hls/273/index.m3u8$哈尔滨
@@ -151,7 +156,7 @@ CETV4,http://111.43.126.240:9003/hls/36/index.m3u8$五常移动
 
 黑龙江卫视,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$黑河
 黑龙江文体,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8$黑河
-黑龙江农业科教,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8$黑河
+黑龙江农业,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8$黑河
 黑龙江影视,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8$黑河
 黑龙江少儿,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8$黑河
 黑龙江卫视,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8$黑河
@@ -463,12 +468,13 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225662/index.m3u8
+黑龙江少儿,http://10.8.8.200/hls/277/index.m3u8$哈尔滨
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+深圳少儿,http://116.77.33.98:44330/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225657/index.m3u8
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225656/index.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225653/index.m3u8
-黑龙江少儿,http://10.8.8.200/hls/277/index.m3u8$哈尔滨
 动漫秀场,http://10.8.8.200/hls/217/index.m3u8$哈尔滨
 优漫卡通,http://10.8.8.200/hls/35/index.m3u8$哈尔滨
 卡酷少儿,http://10.8.8.200/hls/58/index.m3u8$哈尔滨
@@ -529,6 +535,7 @@ CCTV16 4K,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 咪咕4K-1,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 
 🌊港澳台,#genre#
+星空卫视,http://116.77.33.98:44330/tsfile/live/1012_1.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 TVB经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
