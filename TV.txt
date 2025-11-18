@@ -718,18 +718,26 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
 优漫卡通,http://61.55.46.35:4022/rtp/239.253.93.204:6382
 
 💰4K频道,#genre#
-湖南卫视4k,http://106.53.99.30/tv/api.php?id=hnws4k
-上海卫视4K,https://itv.809899.xyz/4k.php?id=sh4k
-江苏卫视4K,https://itv.809899.xyz/4k.php?id=js4k
-浙江卫视4K,https://itv.809899.xyz/4k.php?id=zj4k
-山东卫视4K,https://itv.809899.xyz/4k.php?id=sd4k
-湖南卫视4K,https://itv.809899.xyz/4k.php?id=hn4k
+湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
+东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
+江苏卫视4K,http://106.53.99.30/tv/api.php?id=jsws4k
+浙江卫视4K,http://106.53.99.30/tv/api.php?id=zjws4k
+山东卫视4K,http://106.53.99.30/tv/api.php?id=sdws4k
+北京卫视4K,http://106.53.99.30/tv/api.php?id=bjws4k
+四川卫视4K,http://106.53.99.30/tv/api.php?id=scws4k
+深圳卫视4K,http://106.53.99.30/tv/api.php?id=szws4k
+广东卫视4K,http://106.53.99.30/tv/api.php?id=gdws4k
+东方卫视4K,http://111.42.182.135:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-4K/G_DONGFANG-4K.m3u8$江苏银河
+江苏卫视4K,http://111.42.182.135:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8$江苏银河
+浙江卫视4K,http://111.42.182.135:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8$江苏银河
+山东卫视4K,http://111.42.182.135:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8$江苏银河
+湖南卫视4K,,http://111.42.182.135:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-4K/G_HUNAN-4K.m3u8$江苏银河
 广东卫视4K,https://itv.809899.xyz/4k.php?id=gd4k
 四川卫视4K,https://itv.809899.xyz/4k.php?id=sc4k
 深圳卫视4K,https://itv.809899.xyz/4k.php?id=sz4k
-北京卫视4K,https://itv.809899.xyz/4k.php?id=btv4k
+北京卫视4K,http://111.42.182.135:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-4K
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
-北京卫视4K 5.1声道,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
+北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
 深圳卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
 广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140
 CCTV16 4K,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
@@ -753,6 +761,7 @@ CCTV16 4K,https://shyd.695847.xyz/cms001/ch00000090990000001258/index.m3u8?Ace
 咪咕4K,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 咪咕4K-1,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 咪咕4K,http://39.134.65.145/PLTV/88888888/224/3221225651/1.m3u8$鹤岗
+
 
 🌊港澳台,#genre#
 星空卫视,http://116.77.33.98:44330/tsfile/live/1012_1.m3u8
