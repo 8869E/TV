@@ -115,6 +115,110 @@ CCTV12,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 CCTV14,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$哈尔滨移动
 CCTV17,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$哈尔滨移动
 CCTV5+,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈尔滨移动
+CCTV1,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8$四川蜀小果
+CCTV2,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8$四川蜀小果
+CCTV3,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8$四川蜀小果
+CCTV4,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8$四川蜀小果
+CCTV4K,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8$四川蜀小果
+CCTV5,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8$四川蜀小果
+CCTV5+,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8$四川蜀小果
+CCTV6,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8$四川蜀小果
+CCTV7,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8$四川蜀小果
+CCTV8,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8$四川蜀小果
+CCTV9,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8$四川蜀小果
+CCTV10,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8$四川蜀小果
+CCTV11,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8$四川蜀小果
+CCTV12,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8$四川蜀小果
+CCTV13,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8$四川蜀小果
+CCTV14,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8$四川蜀小果
+CCTV15,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8$四川蜀小果
+CCTV16,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8$四川蜀小果
+CCTV16 4k,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000.m3u8$四川蜀小果
+CCTV17,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8$四川蜀小果
+CGTN纪录,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CGTN_4000.m3u8$四川蜀小果
+CGTN西语,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/xbyy_2000.m3u8$四川蜀小果
+CGTN法语,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/fy_2000.m3u8$四川蜀小果
+CGTN俄语,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/ey_2000.m3u8$四川蜀小果
+CCTV1,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8$北京移动
+CCTV1,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226346/1.m3u8$北京移动
+CCTV1,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8$北京移动
+CCTV1,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226933/1.m3u8$北京移动
+CCTV1,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8$北京移动
+CCTV1,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226432/1.m3u8$北京移动
+CCTV2,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8$北京移动
+CCTV2,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8$北京移动
+CCTV2,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226472/1.m3u8$北京移动
+CCTV2,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8$北京移动
+CCTV2,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8$北京移动
+CCTV2,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8$北京移动
+CCTV2,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226911/1.m3u8$北京移动
+CCTV2,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8$北京移动
+CCTV3,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8$北京移动
+CCTV4,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8$北京移动
+CCTV4,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8$北京移动
+CCTV4,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227026/1.m3u8$北京移动
+CCTV4,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8$北京移动
+CCTV4,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226907/1.m3u8$北京移动
+CCTV4,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226455/1.m3u8$北京移动
+CCTV5,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8$北京移动
+CCTV5,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8$北京移动
+CCTV5,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8$北京移动
+CCTV5,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226945/1.m3u8$北京移动
+CCTV5,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8$北京移动
+CCTV5+,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8$北京移动
+CCTV5+,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8$北京移动
+CCTV5+,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8$北京移动
+CCTV5+,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226929/1.m3u8$北京移动
+CCTV6,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8$北京移动
+CCTV6,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8$北京移动
+CCTV7,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8$北京移动
+CCTV7,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226467/1.m3u8$北京移动
+CCTV7,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8$北京移动
+CCTV7,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227019/1.m3u8$北京移动
+CCTV7,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226906/1.m3u8$北京移动
+CCTV7,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226452/1.m3u8$北京移动
+CCTV8,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8$北京移动
+CCTV8,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8$北京移动
+CCTV9,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8$北京移动
+CCTV9,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$北京移动
+CCTV9,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8$北京移动
+CCTV9,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227037/1.m3u8$北京移动
+CCTV9,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226450/1.m3u8$北京移动
+CCTV10,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8$北京移动
+CCTV10,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8$北京移动
+CCTV10,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226918/1.m3u8$北京移动
+CCTV10,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8$北京移动
+CCTV11,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8$北京移动
+CCTV11,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$北京移动
+CCTV11,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226914/1.m3u8$北京移动
+CCTV11,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/1.m3u8$北京移动
+CCTV12,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8$北京移动
+CCTV12,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$北京移动
+CCTV12,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8$北京移动
+CCTV12,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226905/1.m3u8$北京移动
+CCTV12,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226447/1.m3u8$北京移动
+CCTV13,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8$北京移动
+CCTV13,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226568/1.m3u8$北京移动
+CCTV13,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227041/1.m3u8$北京移动
+CCTV13,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226339/1.m3u8$北京移动
+CCTV13,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226446/1.m3u8$北京移动
+CCTV14,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8$北京移动
+CCTV14,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226461/1.m3u8$北京移动
+CCTV14,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$北京移动
+CCTV14,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227036/1.m3u8$北京移动
+CCTV14,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226904/1.m3u8$北京移动
+CCTV14,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226445/1.m3u8$北京移动
+CCTV15,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8$北京移动
+CCTV15,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8$北京移动
+CCTV15,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226910/1.m3u8$北京移动
+CCTV15,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8$北京移动
+CCTV16,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8$北京移动
+CCTV16,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/1.m3u8$北京移动
+CCTV16,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8$北京移动
+CCTV16,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8$北京移动
+CCTV17,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8$北京移动
+CCTV17,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8$北京移动
+CCTV17,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8$北京移动
 CCTV1,http://111.43.126.240:9003/hls/13/index.m3u8$五常移动
 CCTV2,http://111.43.126.240:9003/hls/14/index.m3u8$五常移动
 CCTV3,http://111.43.126.240:9003/hls/15/index.m3u8$五常移动
@@ -583,10 +687,11 @@ CETV1,http://b.tvbox6.icu/tv/ysp.php?id=63
 🎬电影电视剧频道,#genre#
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-CHC家庭影院,https://shyd.695847.xyz/cms001/ch00000090990000001570/index.m3u8?Ace  
-CHC动作电影,https://shyd.695847.xyz/cms001/ch00000090990000001580/index.m3u8?Ace  
-CHC影迷电影,https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?Ace  
-
+CHC影迷电影,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8$四川蜀小果
+CHC动作电影,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8$四川蜀小果
+CHC家庭影院,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8$四川蜀小果
+峨嵋电影,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8$四川蜀小果
+峨眉电影4K,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8$四川蜀小果
 NEWTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NEWTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NEWTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
@@ -619,8 +724,7 @@ CCTV怀旧剧场,http://b.tvbox6.icu/tv/ysp.php?id=23
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8$黑龙江移动
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$黑龙江移动
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$黑龙江移动
-CCTV16 4K,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
-CCTV16 4K,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
+CCTV16 4K,http://111.42.182.135:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8$江苏银河
 
 睛彩青少,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226508/index.m3u8
 睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226124/index.m3u8
@@ -679,6 +783,7 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225657/index.m3u8
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225656/index.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225653/index.m3u8
+动漫秀场,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/yybb-dmxc-H265_4000.m3u8$四川蜀小果
 动漫秀场,http://10.8.8.200/hls/217/index.m3u8$哈尔滨
 优漫卡通,http://10.8.8.200/hls/35/index.m3u8$哈尔滨
 卡酷少儿,http://10.8.8.200/hls/58/index.m3u8$哈尔滨
@@ -716,6 +821,10 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
 金鹰卡通,http://61.55.46.35:4022/rtp/239.253.92.163:8055
 嘉佳卡通,http://61.55.46.35:4022/rtp/239.253.93.203:6381
 优漫卡通,http://61.55.46.35:4022/rtp/239.253.93.204:6382
+卡酷少儿,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/kkkt_4000.m3u8$四川蜀小果
+金鹰卡通,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/jykt_2000.m3u8$四川蜀小果
+嘉佳卡通,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjkt_2000.m3u8$四川蜀小果
+成都少儿,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-6_2000.m3u8$四川蜀小果
 
 💰4K频道,#genre#
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
@@ -724,7 +833,7 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
 浙江卫视4K,http://106.53.99.30/tv/api.php?id=zjws4k
 山东卫视4K,http://106.53.99.30/tv/api.php?id=sdws4k
 北京卫视4K,http://106.53.99.30/tv/api.php?id=bjws4k
-四川卫视4K,http://106.53.99.30/tv/api.php?id=scws4k
+四川卫视4K,http://111.42.182.135:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8
 深圳卫视4K,http://106.53.99.30/tv/api.php?id=szws4k
 广东卫视4K,http://106.53.99.30/tv/api.php?id=gdws4k
 东方卫视4K,http://111.42.182.135:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-4K/G_DONGFANG-4K.m3u8$江苏银河
@@ -740,6 +849,7 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
 CCTV16 4K,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 CCTV16 4K,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV16 4K,http://111.42.182.135:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8$江苏银河
+CCTV4K,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8$四川蜀小果
 CCTV4K,http://111.42.182.135:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8$江苏银河
 纯享4K,http://111.42.182.135:2380/js-live-screenshot.gitv.tv/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8$江苏银河
 4K超清,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
@@ -761,10 +871,12 @@ CCTV4K,http://111.42.182.135:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K
 凤凰资讯,http://111.42.182.135:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228524/1.m3u8
 凤凰中文,http://111.42.182.135:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228527/1.m3u8
 凤凰香港,http://111.42.182.135:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228530/1.m3u8
+凤凰中文,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8$四川蜀小果
+凤凰资讯,http://120.233.178.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8$四川蜀小果
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 TVB经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-TVB翡翠台4K,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+TVB翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 TVB Plus,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
