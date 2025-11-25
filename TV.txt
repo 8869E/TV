@@ -27,7 +27,7 @@ CCTV1,http://106.53.99.30/tv/cctv1.php$官源
 CCTV13,http://106.53.99.30/tv/cctv13.php$官源
 CCTV16,http://8.138.7.223/tv/cctv16.m3u8$官源
 CCTV1,http://39.134.65.145/PLTV/88888888/224/3221225816/1.m3u8$鹤岗
-CCTV2,http://39.134.65.145/PLTV/88888888/224/3221225599/1.m3u8$鹤岗
+CCTV2,http://39.134.65.145/PLTV/88888888/224/3221226540/1.m3u8$鹤岗
 CCTV3,http://39.134.65.145/PLTV/88888888/224/3221225799/1.m3u8$鹤岗
 CCTV4,http://39.134.65.145/PLTV/88888888/224/3221225797/1.m3u8$鹤岗
 CCTV5,http://39.134.65.145/PLTV/88888888/224/3221225818/1.m3u8$鹤岗
@@ -60,14 +60,15 @@ CCTV15,http://10.8.8.200/hls/119/index.m3u8$哈尔滨
 CCTV16,http://10.8.8.200/hls/104/index.m3u8$哈尔滨
 CCTV17,http://10.8.8.200/hls/100/index.m3u8$哈尔滨
 CGTN纪录,http://10.8.8.200/hls/14/index.m3u8$哈尔滨
-CCTV1,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$黑河$黑河
-CCTV1,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$黑河$黑河
-CCTV3,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$黑河$黑河
-CCTV4,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8$黑河$黑河
-CCTV5+,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑河$黑河
-CCTV6,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$黑河$黑河
-CCTV7,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$黑河$黑河
-CCTV7,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$黑河$黑河
+CCTV1,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$黑河
+CCTV1,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$黑河
+CCTV2,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$黑河
+CCTV3,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$黑河
+CCTV4,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8$黑河
+CCTV5+,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑河
+CCTV6,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$黑河
+CCTV7,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$黑河
+CCTV7,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$黑河
 CCTV8,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$黑河
 CCTV9,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$黑河
 CCTV10,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$黑河
@@ -94,6 +95,7 @@ CCTV4,http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.china
 CCTV2,http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$绥化
 
 CCTV3,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$哈尔滨移动
+CCTV2,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$哈尔滨移动
 CCTV5,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$哈尔滨移动
 CCTV6,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$哈尔滨移动
 CCTV7,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$哈尔滨移动
@@ -949,6 +951,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 黑龙江移动,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
