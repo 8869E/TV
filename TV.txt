@@ -694,9 +694,15 @@ CETV1,http://b.tvbox6.icu/tv/ysp.php?id=63
 🎬电影电视剧频道,#genre#
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+CHC家庭影院,http://go.bkpcp.top/mg/jtyy
+CHC动作电影,http://go.bkpcp.top/mg/dzdy
+CHC影迷电影,http://go.bkpcp.top/mg/ymdy
 CHC影迷电影,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8$四川蜀小果
 CHC动作电影,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8$四川蜀小果
 CHC家庭影院,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8$四川蜀小果
+1905电影1,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+1905电影2,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
+
 峨嵋电影,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8$四川蜀小果
 峨眉电影4K,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8$四川蜀小果
 NEWTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -834,6 +840,9 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 成都少儿,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-6_2000.m3u8$四川蜀小果
 
 💰4K频道,#genre#
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
 东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
 江苏卫视4K,http://106.53.99.30/tv/api.php?id=jsws4k
