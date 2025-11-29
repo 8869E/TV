@@ -512,10 +512,10 @@ CETV4,https://shyd.695847.xyz/cms001/ch00000090990000001348/index.m3u8?Ace
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 北京卫视,http://go.bkpcp.top/mg/bjws$咪咕
-北京卫视,http://go.bkpcp.top/mg/dfws$咪咕
-北京卫视,http://go.bkpcp.top/mg/jsws$咪咕
-北京卫视,http://go.bkpcp.top/mg/lnws$咪咕
-北京卫视,http://go.bkpcp.top/mg/sdws$咪咕
+东方卫视,http://go.bkpcp.top/mg/dfws$咪咕
+江苏卫视,http://go.bkpcp.top/mg/jsws$咪咕
+辽宁卫视,http://go.bkpcp.top/mg/lnws$咪咕
+山东卫视,http://go.bkpcp.top/mg/sdws$咪咕
 北京卫视,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$哈尔滨移动
 东方卫视,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$哈尔滨移动
 深圳卫视,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8$哈尔滨移动
@@ -856,8 +856,8 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 北京卫视4K,http://139.ye23.vip/dl/btv2502.php?id=bjws4
 
-浙江卫视4k,http://go.bkpcp.top/mg$咪咕
-湖南卫视4k,http://go.bkpcp.top/mg/hunws$咪咕
+浙江卫视4K,http://go.bkpcp.top/mg$咪咕
+湖南卫视4K,http://go.bkpcp.top/mg/hunws$咪咕
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
 东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
 江苏卫视4K,http://106.53.99.30/tv/api.php?id=jsws4k
