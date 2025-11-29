@@ -23,14 +23,40 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$黑龙江移动
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$黑龙江移动
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动
-CCTV4k,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8$四川蜀小果
-CCTV16 4K,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000.m3u8$四川蜀小果
+
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$黑龙江移动
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$黑龙江移动
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$黑龙江移动
-CCTV1,http://106.53.99.30/tv/cctv1.php$官源
-CCTV13,http://106.53.99.30/tv/cctv13.php$官源
-CCTV16,http://8.138.7.223/tv/cctv16.m3u8$官源
+CCTV1,http://go.bkpcp.top/mg/cctv1$咪咕
+CCTV2,http://go.bkpcp.top/mg/cctv2$咪咕
+CCTV3,http://go.bkpcp.top/mg/cctv3$咪咕
+CCTV4,http://go.bkpcp.top/mg/cctv4$咪咕
+CCTV5,http://go.bkpcp.top/mg/cctv5$咪咕
+CCTV5+,http://go.bkpcp.top/mg/cctv5p$咪咕
+CCTV6,http://go.bkpcp.top/mg/cctv6$咪咕
+CCTV7,http://go.bkpcp.top/mg/cctv7$咪咕
+CCTV8,http://go.bkpcp.top/mg/cctv8$咪咕
+CCTV9,http://go.bkpcp.top/mg/cctv9$咪咕
+CCTV10,http://go.bkpcp.top/mg/cctv10$咪咕
+CCTV11,http://go.bkpcp.top/mg/cctv11$咪咕
+CCTV12,http://go.bkpcp.top/mg/cctv12$咪咕
+CCTV13,http://go.bkpcp.top/mg/cctv13$咪咕
+CCTV14,http://go.bkpcp.top/mg/cctv14$咪咕
+CCTV15,http://go.bkpcp.top/mg/cctv15$咪咕
+CCTV17,http://go.bkpcp.top/mg/cctv17$咪咕
+CCTV4美洲,http://go.bkpcp.top/mg/cctv4m$咪咕
+CCTV4欧洲,http://go.bkpcp.top/mg/cctv4o$咪咕
+CETV1,http://go.bkpcp.top/mg/cetv1$咪咕
+CETV2,http://go.bkpcp.top/mg/cetv2$咪咕
+CETV3,http://go.bkpcp.top/mg/cetv3$咪咕
+CETV4,http://go.bkpcp.top/mg/cetv4$咪咕
+CGTN,http://go.bkpcp.top/mg/cgtn$咪咕
+CGTN纪录,http://go.bkpcp.top/mg/cgtnjl$咪咕
+CGTN西语,http://go.bkpcp.top/mg/cgtne$咪咕
+CGTN法语,http://go.bkpcp.top/mg/cgtnf$咪咕
+CGTN阿语,http://go.bkpcp.top/mg/cgtna$咪咕
+CGTN俄语,http://go.bkpcp.top/mg/cgtnr$咪咕
+
 CCTV1,http://39.134.65.145/PLTV/88888888/224/3221225816/1.m3u8$鹤岗
 CCTV2,http://39.134.65.145/PLTV/88888888/224/3221226540/1.m3u8$鹤岗
 CCTV3,http://39.134.65.145/PLTV/88888888/224/3221225799/1.m3u8$鹤岗
@@ -122,6 +148,7 @@ CCTV12,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 CCTV14,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$哈尔滨移动
 CCTV17,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$哈尔滨移动
 CCTV5+,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈尔滨移动
+
 CCTV1,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8$四川蜀小果
 CCTV2,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8$四川蜀小果
 CCTV3,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8$四川蜀小果
@@ -272,25 +299,7 @@ CCTV17,https://shyd.695847.xyz/cms001/ch00000090990000001243/index.m3u8?Ace
 CETV1,https://shyd.695847.xyz/cms001/ch00000090990000001020/index.m3u8?Ace  
 CETV2,https://shyd.695847.xyz/cms001/ch00000090990000001226/index.m3u8?Ace  
 CETV4,https://shyd.695847.xyz/cms001/ch00000090990000001348/index.m3u8?Ace  
-CCTV1,http://b.tvbox6.icu/tv/ysp.php?id=1
-CCTV2,http://b.tvbox6.icu/tv/ysp.php?id=2
-CCTV3,http://b.tvbox6.icu/tv/ysp.php?id=3
-CCTV4,http://b.tvbox6.icu/tv/ysp.php?id=4
-CCTV5,http://b.tvbox6.icu/tv/ysp.php?id=5
-CCTV5,http://b.tvbox6.icu/tv/ysp.php?id=6
-CCTV6,http://b.tvbox6.icu/tv/ysp.php?id=7
-CCTV7,http://b.tvbox6.icu/tv/ysp.php?id=8
-CCTV8,http://b.tvbox6.icu/tv/ysp.php?id=9
-CCTV9,http://b.tvbox6.icu/tv/ysp.php?id=10
-CCTV10,http://b.tvbox6.icu/tv/ysp.php?id=11
-CCTV11,http://b.tvbox6.icu/tv/ysp.php?id=12
-CCTV12,http://b.tvbox6.icu/tv/ysp.php?id=13
-CCTV13,http://b.tvbox6.icu/tv/ysp.php?id=14
-CCTV14,http://b.tvbox6.icu/tv/ysp.php?id=15
-CCTV15,http://b.tvbox6.icu/tv/ysp.php?id=16
-CCTV16,http://b.tvbox6.icu/tv/ysp.php?id=17
-CCTV17,http://b.tvbox6.icu/tv/ysp.php?id=18
-CETV1,http://b.tvbox6.icu/tv/ysp.php?id=63
+
 
 🏠黑龙江频道,#genre#
 哈尔滨新闻综合,http://39.134.65.145/PLTV/88888888/224/3221226093/1.m3u8$鹤岗
@@ -502,6 +511,11 @@ CETV1,http://b.tvbox6.icu/tv/ysp.php?id=63
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+北京卫视,http://go.bkpcp.top/mg/bjws$咪咕
+北京卫视,http://go.bkpcp.top/mg/dfws$咪咕
+北京卫视,http://go.bkpcp.top/mg/jsws$咪咕
+北京卫视,http://go.bkpcp.top/mg/lnws$咪咕
+北京卫视,http://go.bkpcp.top/mg/sdws$咪咕
 北京卫视,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$哈尔滨移动
 东方卫视,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$哈尔滨移动
 深圳卫视,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8$哈尔滨移动
@@ -694,17 +708,15 @@ CETV1,http://b.tvbox6.icu/tv/ysp.php?id=63
 🎬电影电视剧频道,#genre#
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-CHC家庭影院,http://go.bkpcp.top/mg/jtyy
-CHC动作电影,http://go.bkpcp.top/mg/dzdy
-CHC影迷电影,http://go.bkpcp.top/mg/ymdy
+CHC家庭影院,http://go.bkpcp.top/mg/jtyy$咪咕
+CHC动作电影,http://go.bkpcp.top/mg/dzdy$咪咕
+CHC影迷电影,http://go.bkpcp.top/mg/ymdy$咪咕
 CHC影迷电影,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8$四川蜀小果
 CHC动作电影,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8$四川蜀小果
 CHC家庭影院,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8$四川蜀小果
 1905电影1,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 1905电影2,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
 
-峨嵋电影,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8$四川蜀小果
-峨眉电影4K,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8$四川蜀小果
 NEWTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NEWTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NEWTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
@@ -842,7 +854,10 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 💰4K频道,#genre#
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+北京卫视4K,http://139.ye23.vip/dl/btv2502.php?id=bjws4
 
+浙江卫视4k,http://go.bkpcp.top/mg$咪咕
+湖南卫视4k,http://go.bkpcp.top/mg/hunws$咪咕
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
 东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
 江苏卫视4K,http://106.53.99.30/tv/api.php?id=jsws4k
@@ -867,6 +882,9 @@ CCTV16 4K,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV16 4K,http://183.214.23.57:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8$江苏银河
 CCTV4K,http://183.214.23.57:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8$四川蜀小果
 CCTV4K,http://183.214.23.57:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8$江苏银河
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+TVB翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
 纯享4K,http://183.214.23.57:2380/js-live-screenshot.gitv.tv/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8$江苏银河
 4K超清,http://183.214.23.57:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 欢笑剧场4K,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?Ace  
@@ -880,6 +898,20 @@ CCTV4K,http://183.214.23.57:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-
 星空卫视,http://116.77.33.98:44330/tsfile/live/1012_1.m3u8
 星空卫视,http://116.77.33.196:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 星空卫视,http://116.77.33.98:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+TVB翡翠台,https://cdn6.163189.xyz/163189/fct4k
+TVB翡翠台,https://cdn6.163189.xyz/163189/fct
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+TVB明珠台,https://cdn6.163189.xyz/163189/mzt
+TVB星河,https://cdn6.163189.xyz/163189/tvbxh
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB星河,http://r.jdshipin.com/Voac4
 凤凰资讯,http://183.214.23.57:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228524/1.m3u8
 凤凰中文,http://183.214.23.57:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228527/1.m3u8
 凤凰香港,http://183.214.23.57:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228530/1.m3u8
