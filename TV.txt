@@ -855,7 +855,7 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 北京卫视4K,http://139.ye23.vip/dl/btv2502.php?id=bjws4
-
+深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 浙江卫视4K,http://go.bkpcp.top/mg$咪咕
 湖南卫视4K,http://go.bkpcp.top/mg/hunws$咪咕
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
