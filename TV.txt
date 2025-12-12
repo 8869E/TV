@@ -54,7 +54,8 @@ CGTN西语,http://go.bkpcp.top/mg/cgtne$咪咕
 CGTN法语,http://go.bkpcp.top/mg/cgtnf$咪咕
 CGTN阿语,http://go.bkpcp.top/mg/cgtna$咪咕
 CGTN俄语,http://go.bkpcp.top/mg/cgtnr$咪咕
-
+CCTV2,http://mytv6688.xyz:528/douyin/uid/nuanxinnengl$抖音
+CCTV13,http://mytv6688.xyz:528/douyin/uid/cctv_video$抖音
 CCTV1,http://39.134.65.145/PLTV/88888888/224/3221225816/1.m3u8$鹤岗
 CCTV2,http://39.134.65.145/PLTV/88888888/224/3221226540/1.m3u8$鹤岗
 CCTV3,http://39.134.65.145/PLTV/88888888/224/3221225799/1.m3u8$鹤岗
