@@ -163,6 +163,26 @@ CCTV12,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 CCTV14,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$哈尔滨移动
 CCTV17,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$哈尔滨移动
 CCTV5+,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈尔滨移动
+CCTV1,http://bfgd.sohu.blog:880/dx01.m3u8$DX
+CCTV2,http://bfgd.sohu.blog:880/dx02.m3u8$DX
+CCTV3,http://bfgd.sohu.blog:880/dx03.m3u8$DX
+CCTV4,http://bfgd.sohu.blog:880/dx04.m3u8$DX
+CCTV5,http://bfgd.sohu.blog:880/dx05.m3u8$DX
+CCTV6,http://bfgd.sohu.blog:880/dx06.m3u8$DX
+CCTV7,http://bfgd.sohu.blog:880/dx07.m3u8$DX
+CCTV8,http://bfgd.sohu.blog:880/dx08.m3u8$DX
+CCTV9,http://bfgd.sohu.blog:880/dx09.m3u8$DX
+CCTV10,http://bfgd.sohu.blog:880/dx10.m3u8$DX
+CCTV11,http://bfgd.sohu.blog:880/dx11.m3u8$DX
+CCTV12,http://bfgd.sohu.blog:880/dx12.m3u8$DX
+CCTV13,http://bfgd.sohu.blog:880/dx13.m3u8$DX
+CCTV14,http://bfgd.sohu.blog:880/dx14.m3u8$DX
+CCTV15,http://bfgd.sohu.blog:880/dx15.m3u8$DX
+CCTV16,http://bfgd.sohu.blog:880/dx201.m3u8$DX
+CCTV17,http://bfgd.sohu.blog:880/dx17.m3u8$DX
+CCTV5+,http://bfgd.sohu.blog:880/dx16.m3u8$DX
+CETV1,http://bfgd.sohu.blog:880/dx84.m3u8$DX
+CGTN,http://bfgd.sohu.blog:880/dx18.m3u8$DX
 CCTV1,http://42.48.106.138:808/hls/1/index.m3u8$湖南联通
 CCTV2,http://42.48.106.138:808/hls/2/index.m3u8$湖南联通
 CCTV3,http://42.48.106.138:808/hls/3/index.m3u8$湖南联通
@@ -726,6 +746,7 @@ CCTV17,http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/32
 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy
 游戏风云,https://shyd.695847.xyz/cms001/ch00000090990000001114/index.m3u8?Ace  
 游戏风云,https://shyd.695847.xyz/cms001/ch00000090990000001192/index.m3u8?Ace  
+游戏风云,http://bfgd.sohu.blog:880/dx111.m3u8$DX
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 哒啵赛事,http://111.43.126.240:9003/hls/101/index.m3u8$五常移动
 哒啵电竞,http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8$北京移动
@@ -741,6 +762,9 @@ CHC影迷电影,http://go.bkpcp.top/mg/ymdy$咪咕
 CHC家庭影院,http://42.48.106.138:808/hls/63/index.m3u8$湖南联通
 CHC影迷电影,http://42.48.106.138:808/hls/64/index.m3u8$湖南联通
 CHC动作电影,http://42.48.106.138:808/hls/65/index.m3u8$湖南联通
+CHC家庭影院,http://bfgd.sohu.blog:880/dx93.m3u8$DX
+CHC动作电影,http://bfgd.sohu.blog:880/dx100.m3u8$DX
+CHC影迷电影,http://bfgd.sohu.blog:880/dx101.m3u8$DX
 CHC影迷电影,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8$四川蜀小果
 CHC动作电影,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8$四川蜀小果
 CHC家庭影院,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8$四川蜀小果
@@ -769,7 +793,7 @@ NEWTV潮妈辣婆,http://111.43.126.240:9003/hls/94/index.m3u8$五常移动
 NEWTV中国功夫,http://111.43.126.240:9003/hls/96/index.m3u8$五常移动
 NEWTV海外剧场,http://111.43.126.240:9003/hls/98/index.m3u8$五常移动
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-
+city都市剧场,http://bfgd.sohu.blog:880/dx107.m3u8$DX
 黑莓电影,http://111.43.126.240:7777/hls/99/index.m3u8$哈尔滨
 
 
@@ -852,6 +876,12 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 优漫卡通,http://111.43.126.240:7777/hls/74/index.m3u8$哈尔滨
 黑莓动画,http://111.43.126.240:7777/hls/100/index.m3u8$哈尔滨
 
+新动漫,http://bfgd.sohu.blog:880/dx87.m3u8$DX
+金鹰卡通,http://bfgd.sohu.blog:880/dx88.m3u8$DX
+优漫卡通,http://bfgd.sohu.blog:880/dx90.m3u8$DX
+嘉佳卡通,http://bfgd.sohu.blog:880/dx67.m3u8$DX
+卡酷少儿,http://bfgd.sohu.blog:880/dx92.m3u8$DX
+动漫秀场,http://bfgd.sohu.blog:880/dx110.m3u8$DX
 
 哈哈炫动,http://beijinglive.online.domybox.com:91/live/XDKT-1500k/live.m3u8
 金鹰卡通,http://beijinglive.online.domybox.com:91/live/JYKT-1500k/live.m3u8
