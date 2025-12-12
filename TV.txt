@@ -871,7 +871,7 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 金鹰卡通,http://10.8.8.200/hls/89/index.m3u8$哈尔滨
 哈哈炫动,http://10.8.8.200/hls/90/index.m3u8$哈尔滨
 卡酷少儿,http://111.43.126.240:7777/hls/71/index.m3u8$哈尔滨
-炫动卡通,http://111.43.126.240:7777/hls/72/index.m3u8$哈尔滨
+CCTV14,http://111.43.126.240:7777/hls/72/index.m3u8$哈尔滨
 金鹰卡通,http://111.43.126.240:7777/hls/73/index.m3u8$哈尔滨
 优漫卡通,http://111.43.126.240:7777/hls/74/index.m3u8$哈尔滨
 黑莓动画,http://111.43.126.240:7777/hls/100/index.m3u8$哈尔滨
