@@ -910,7 +910,7 @@ CCTV17,http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/32
 哒啵赛事,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=yu&mode=1&
 哒啵赛事,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006906&livemode=1&stbId=yu&mode=1&
 哒啵赛事,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=yu&mode=1&
-电竞游戏,http://156.238.248.80/2099.php?id=1364
+游戏竞技,http://156.238.248.80/2099.php?id=1364
 
 🎬电影电视剧频道,#genre#
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
