@@ -1084,17 +1084,7 @@ CCTV14,http://111.43.126.240:7777/hls/72/index.m3u8$哈尔滨
 东方卫视4K,https://migu.188766.xyz/?migutoken=8d0acc2e03aff2a49ce9cfbfb8f16e27&id=dfws&type=sz
 北京卫视4K,https://migu.188766.xyz/?migutoken=972ad6766d2968be6ceee7832bcb6897&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 深圳卫视4K,https://migu.188766.xyz/?migutoken=3245152fe4c305a1ae85149d18a55b63&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
-东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
-江苏卫视4K,http://106.53.99.30/tv/api.php?id=jsws4k
-浙江卫视4K,http://106.53.99.30/tv/api.php?id=zjws4k
-山东卫视4K,http://106.53.99.30/tv/api.php?id=sdws4k
-北京卫视4K,http://106.53.99.30/tv/api.php?id=bjws4k
-四川卫视4K,http://183.61.225.53:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8
-深圳卫视4K,http://106.53.99.30/tv/api.php?id=szws4k
-广东卫视4K,http://106.53.99.30/tv/api.php?id=gdws4k
+
 深圳卫视4K,http://156.238.248.80/2099.php?id=27
 北京卫视4K,http://156.238.248.80/2099.php?id=24
 江苏卫视4K,http://156.238.248.80/2099.php?id=25
@@ -1109,8 +1099,17 @@ CCTV14,http://111.43.126.240:7777/hls/72/index.m3u8$哈尔滨
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
 深圳卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
 广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140
-CCTV16 4K,http://156.238.248.80/2099.php?id=29
+湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
+东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
+江苏卫视4K,http://106.53.99.30/tv/api.php?id=jsws4k
+浙江卫视4K,http://106.53.99.30/tv/api.php?id=zjws4k
+山东卫视4K,http://106.53.99.30/tv/api.php?id=sdws4k
+北京卫视4K,http://106.53.99.30/tv/api.php?id=bjws4k
+四川卫视4K,http://183.61.225.53:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8
+深圳卫视4K,http://106.53.99.30/tv/api.php?id=szws4k
+广东卫视4K,http://106.53.99.30/tv/api.php?id=gdws4k
 CCTV4K,http://156.238.248.80/2099.php?id=30
+CCTV16 4K,http://156.238.248.80/2099.php?id=29
 CCTV16 4K,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 CCTV16 4K,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV16 4K,http://183.61.225.53:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8$江苏银河
@@ -1118,12 +1117,13 @@ CCTV4K,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_20
 CCTV4K,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8$四川蜀小果
 CCTV4K,http://183.61.225.53:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8$江苏银河
 欢笑剧场4K,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/hxjc-4k_8000.m3u8?E&U&A&K&P&S$四川蜀小果
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 TVB翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
 纯享4K,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=yu&mode=1&
 纯享4K,http://183.61.225.53:2380/js-live-screenshot.gitv.tv/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8$江苏银河
-4K超清,http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 欢笑剧场4K,http://156.238.248.80/2099.php?id=1246
 欢笑剧场4K,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?Ace  
 百事通电影4K,http://156.238.248.80/2099.php?id=1247
@@ -1136,6 +1136,7 @@ TVB翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
 咪咕4K,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 咪咕4K-1,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 咪咕4K,http://39.134.65.145/PLTV/88888888/224/3221225651/1.m3u8$鹤岗
+4K超清,http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 
 
 🌊港澳台,#genre#
