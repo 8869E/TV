@@ -1,4 +1,23 @@
 📺中央频道,#genre#
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV3,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV4,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV6,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV7,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV8,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV11,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV12,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV13,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265101&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV15,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV16,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=yu&mode=1&$6M HEVC
+
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$黑龙江移动
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$黑龙江移动
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$黑龙江移动
@@ -138,24 +157,7 @@ CETV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225652/index.m3u8$黑
 CETV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226425/index.m3u8$黑龙江移动
 CETV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225783/index.m3u8$黑龙江移动
 
-CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV3,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV4,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV6,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV7,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV8,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV11,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV12,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV13,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265101&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV15,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV16,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=yu&mode=1&$6M HEVC
+
 CCTV1,http://go.bkpcp.top/mg/cctv1$咪咕
 CCTV2,http://go.bkpcp.top/mg/cctv2$咪咕
 CCTV3,http://go.bkpcp.top/mg/cctv3$咪咕
