@@ -5,9 +5,10 @@ CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$�
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$黑龙江移动
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$黑龙江移动
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$黑龙江移动
-CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$黑龙江移动
 CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$黑龙江移动
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$黑龙江移动
 CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$黑龙江移动
 CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$黑龙江移动
 CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8$黑龙江移动
@@ -23,9 +24,136 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$黑龙江移动
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$黑龙江移动
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动
-CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$黑龙江移动
-CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$黑龙江移动
-CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$黑龙江移动
+CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8$黑龙江移动
+CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8$黑龙江移动
+CGTN西语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8$黑龙江移动
+CGTN阿语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8$黑龙江移动
+CGTN法语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m3u8$黑龙江移动
+CGTN俄语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8$黑龙江移动
+CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225652/index.m3u8$黑龙江移动
+CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226425/index.m3u8$黑龙江移动
+CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225783/index.m3u8$黑龙江移动
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226559/index.m3u8$黑龙江移动
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8$黑龙江移动
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226540/index.m3u8$黑龙江移动
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$黑龙江移动
+CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226428/index.m3u8$黑龙江移动
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8$黑龙江移动
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225715/index.m3u8$黑龙江移动
+CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8$黑龙江移动
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8$黑龙江移动
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226398/index.m3u8$黑龙江移动
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8$黑龙江移动
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8$黑龙江移动
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226473/index.m3u8$黑龙江移动
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8$黑龙江移动
+CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226565/index.m3u8$黑龙江移动
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226568/index.m3u8$黑龙江移动
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8$黑龙江移动
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226571/index.m3u8$黑龙江移动
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226537/index.m3u8$黑龙江移动
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226591/index.m3u8$黑龙江移动
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8$黑龙江移动
+CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226476/index.m3u8$黑龙江移动
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$黑龙江移动
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$黑龙江移动
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$黑龙江移动
+CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8$黑龙江移动
+CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8$黑龙江移动
+CGTN西语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226431/index.m3u8$黑龙江移动
+CGTN阿语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226517/index.m3u8$黑龙江移动
+CGTN法语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226520/index.m3u8$黑龙江移动
+CGTN俄语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226543/index.m3u8$黑龙江移动
+CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225652/index.m3u8$黑龙江移动
+CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226425/index.m3u8$黑龙江移动
+CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225783/index.m3u8$黑龙江移动
+CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$黑龙江移动
+CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8$黑龙江移动
+CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8$黑龙江移动
+CCTV3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$黑龙江移动
+CCTV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8$黑龙江移动
+CCTV5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8$黑龙江移动
+CCTV5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8$黑龙江移动
+CCTV6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8$黑龙江移动
+CCTV7,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8$黑龙江移动
+CCTV7,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226398/index.m3u8$黑龙江移动
+CCTV8,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8$黑龙江移动
+CCTV9,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8$黑龙江移动
+CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8$黑龙江移动
+CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8$黑龙江移动
+CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8$黑龙江移动
+CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226568/index.m3u8$黑龙江移动
+CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8$黑龙江移动
+CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8$黑龙江移动
+CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8$黑龙江移动
+CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8$黑龙江移动
+CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8$黑龙江移动
+CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8$黑龙江移动
+CCTV16,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$黑龙江移动
+CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$黑龙江移动
+CCTV5+,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8$黑龙江移动
+CGTN,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225604/index.m3u8$黑龙江移动
+CGTN纪录,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225602/index.m3u8$黑龙江移动
+CGTN西语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226431/index.m3u8$黑龙江移动
+CGTN阿语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226517/index.m3u8$黑龙江移动
+CGTN法语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226520/index.m3u8$黑龙江移动
+CGTN俄语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226543/index.m3u8$黑龙江移动
+CETV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225652/index.m3u8$黑龙江移动
+CETV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226425/index.m3u8$黑龙江移动
+CETV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225783/index.m3u8$黑龙江移动
+CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226559/index.m3u8$黑龙江移动
+CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226016/index.m3u8$黑龙江移动
+CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226540/index.m3u8$黑龙江移动
+CCTV3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226021/index.m3u8$黑龙江移动
+CCTV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226428/index.m3u8$黑龙江移动
+CCTV5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226019/index.m3u8$黑龙江移动
+CCTV5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225715/index.m3u8$黑龙江移动
+CCTV6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226010/index.m3u8$黑龙江移动
+CCTV7,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225733/index.m3u8$黑龙江移动
+CCTV7,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226398/index.m3u8$黑龙江移动
+CCTV8,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226008/index.m3u8$黑龙江移动
+CCTV9,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225734/index.m3u8$黑龙江移动
+CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226473/index.m3u8$黑龙江移动
+CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225730/index.m3u8$黑龙江移动
+CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226565/index.m3u8$黑龙江移动
+CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226568/index.m3u8$黑龙江移动
+CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225731/index.m3u8$黑龙江移动
+CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226571/index.m3u8$黑龙江移动
+CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226537/index.m3u8$黑龙江移动
+CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226591/index.m3u8$黑龙江移动
+CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225732/index.m3u8$黑龙江移动
+CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226476/index.m3u8$黑龙江移动
+CCTV16,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226100/index.m3u8$黑龙江移动
+CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225765/index.m3u8$黑龙江移动
+CCTV5+,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225603/index.m3u8$黑龙江移动
+CGTN,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225604/index.m3u8$黑龙江移动
+CGTN纪录,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225602/index.m3u8$黑龙江移动
+CGTN西语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226431/index.m3u8$黑龙江移动
+CGTN阿语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226517/index.m3u8$黑龙江移动
+CGTN法语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226520/index.m3u8$黑龙江移动
+CGTN俄语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226543/index.m3u8$黑龙江移动
+CETV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225652/index.m3u8$黑龙江移动
+CETV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226425/index.m3u8$黑龙江移动
+CETV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221225783/index.m3u8$黑龙江移动
+
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV3,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV4,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV6,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV7,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV8,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV11,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV12,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV13,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265101&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV15,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV16,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=yu&mode=1&$6M HEVC
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=yu&mode=1&$6M HEVC
 CCTV1,http://go.bkpcp.top/mg/cctv1$咪咕
 CCTV2,http://go.bkpcp.top/mg/cctv2$咪咕
 CCTV3,http://go.bkpcp.top/mg/cctv3$咪咕
@@ -140,7 +268,7 @@ CCTV13,http://111.43.126.240:7777/hls/26/index.m3u8$哈尔滨
 CCTV14,http://111.43.126.240:7777/hls/27/index.m3u8$哈尔滨
 CCTV15,http://111.43.126.240:7777/hls/28/index.m3u8$哈尔滨
 CCTV16,http://111.43.126.240:7777/hls/29/index.m3u8$哈尔滨
-CCTC17,http://111.43.126.240:7777/hls/30/index.m3u8$哈尔滨
+CCTV17,http://111.43.126.240:7777/hls/30/index.m3u8$哈尔滨
 CCTV3,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$哈尔滨移动
 CCTV2,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$哈尔滨移动
 CCTV5,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$哈尔滨移动
@@ -299,7 +427,9 @@ CCTV17,http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/32
 
 🏠黑龙江频道,#genre#
 呼兰综合,https://rmplive.hljtv.com/live/hulan.m3u8
-
+哈尔滨新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8$黑龙江移动
+哈尔滨生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8$黑龙江移动
+哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8$黑龙江移动
 哈尔滨新闻综合,http://39.134.65.145/PLTV/88888888/224/3221226093/1.m3u8$鹤岗
 哈尔滨新闻综合,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8$黑河
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -395,6 +525,22 @@ CCTV17,http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/32
 
 
 📡卫视频道,#genre#
+湖南卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=yu&mode=1&$6M HEVC
+浙江卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=yu&mode=1&$6M HEVC
+北京卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=yu&mode=1&$6M HEVC
+东方卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=yu&mode=1&$6M HEVC
+江苏卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=yu&mode=1&$6M HEVC
+辽宁卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=yu&mode=1&$6M HEVC
+深圳卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=yu&mode=1&$6M HEVC
+广东卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=yu&mode=1&$6M HEVC
+天津卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=yu&mode=1&$6M HEVC
+山东卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265019&livemode=1&stbId=yu&mode=1&$6M HEVC
+安徽卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=yu&mode=1&$6M HEVC
+江西卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=yu&mode=1&$6M HEVC
+黑龙江卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=yu&mode=1&$6M HEVC
+湖北卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=yu&mode=1&$6M HEVC
+重庆卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=yu&mode=1&$6M HEVC
+东南卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=yu&mode=1&$6M HEVC
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
@@ -750,13 +896,20 @@ CCTV17,http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/32
 游戏风云,http://bfgd.sohu.blog:880/dx111.m3u8$DX
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 哒啵赛事,http://111.43.126.240:9003/hls/101/index.m3u8$五常移动
+哒啵电竞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=yu&mode=1&
 哒啵电竞,http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8$北京移动
 哒啵赛事,http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8$北京移动
 哒啵赛事,http://111.43.126.240:7777/hls/101/index.m3u8$哈尔滨
+哒啵赛事,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=yu&mode=1&
+哒啵赛事,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006906&livemode=1&stbId=yu&mode=1&
+哒啵赛事,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=yu&mode=1&
+电竞游戏,http://156.238.248.80/2099.php?id=1364
 
 🎬电影电视剧频道,#genre#
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓电影,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=yu&mode=1&
+黑莓电影,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=yu&mode=1&
 CHC家庭影院,http://go.bkpcp.top/mg/jtyy$咪咕
 CHC动作电影,http://go.bkpcp.top/mg/dzdy$咪咕
 CHC影迷电影,http://go.bkpcp.top/mg/ymdy$咪咕
@@ -794,7 +947,7 @@ NEWTV潮妈辣婆,http://111.43.126.240:9003/hls/94/index.m3u8$五常移动
 NEWTV中国功夫,http://111.43.126.240:9003/hls/96/index.m3u8$五常移动
 NEWTV海外剧场,http://111.43.126.240:9003/hls/98/index.m3u8$五常移动
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-city都市剧场,http://bfgd.sohu.blog:880/dx107.m3u8$DX
+都市剧场,http://bfgd.sohu.blog:880/dx107.m3u8$DX
 黑莓电影,http://111.43.126.240:7777/hls/99/index.m3u8$哈尔滨
 
 
@@ -853,6 +1006,8 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://39.134.65.145/PLTV/88888888/224/3221225529/1.m3u8$鹤岗
+黑莓动画,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=yu&mode=1&
+黑莓动画,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=yu&mode=1&
 黑龙江少儿,http://10.8.8.200/hls/277/index.m3u8$哈尔滨
 金鹰卡通,http://42.48.106.138:808/hls/23/index.m3u8$湖南联通
 优漫卡通,http://42.48.106.138:808/hls/66/index.m3u8$湖南联通
@@ -923,6 +1078,14 @@ CCTV14,http://111.43.126.240:7777/hls/72/index.m3u8$哈尔滨
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 浙江卫视4K,http://go.bkpcp.top/mg$咪咕
 湖南卫视4K,http://go.bkpcp.top/mg/hunws$咪咕
+江苏卫视4K,http://218.206.221.78:90/hls/81/index.m3u8
+湖南卫视,https://migu.188766.xyz/?migutoken=3b5f7a66691a9823d08e87284264168b&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+浙江卫视,https://migu.188766.xyz/?migutoken=6bc7af713f9f9c63d4c4ea339e70f58e&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+东方卫视,https://migu.188766.xyz/?migutoken=8d0acc2e03aff2a49ce9cfbfb8f16e27&id=dfws&type=sz
+北京卫视,https://migu.188766.xyz/?migutoken=972ad6766d2968be6ceee7832bcb6897&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+深圳卫视,https://migu.188766.xyz/?migutoken=3245152fe4c305a1ae85149d18a55b63&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
 东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
 江苏卫视4K,http://106.53.99.30/tv/api.php?id=jsws4k
@@ -932,6 +1095,10 @@ CCTV14,http://111.43.126.240:7777/hls/72/index.m3u8$哈尔滨
 四川卫视4K,http://183.61.225.53:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8
 深圳卫视4K,http://106.53.99.30/tv/api.php?id=szws4k
 广东卫视4K,http://106.53.99.30/tv/api.php?id=gdws4k
+深圳卫视4K,http://156.238.248.80/2099.php?id=27
+北京卫视4K,http://156.238.248.80/2099.php?id=24
+江苏卫视4K,http://156.238.248.80/2099.php?id=25
+广东卫视4K,http://156.238.248.80/2099.php?id=26
 东方卫视4K,http://183.61.225.53:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-4K/G_DONGFANG-4K.m3u8$江苏银河
 江苏卫视4K,http://183.61.225.53:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8$江苏银河
 浙江卫视4K,http://183.61.225.53:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8$江苏银河
@@ -942,6 +1109,8 @@ CCTV14,http://111.43.126.240:7777/hls/72/index.m3u8$哈尔滨
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
 深圳卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
 广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140
+CCTV16 4K,http://156.238.248.80/2099.php?id=29
+CCTV4K,http://156.238.248.80/2099.php?id=30
 CCTV16 4K,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 CCTV16 4K,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV16 4K,http://183.61.225.53:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8$江苏银河
@@ -952,9 +1121,17 @@ CCTV4K,http://183.61.225.53:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 TVB翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
+纯享4K,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=yu&mode=1&
 纯享4K,http://183.61.225.53:2380/js-live-screenshot.gitv.tv/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8$江苏银河
 4K超清,http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+欢笑剧场4K,http://156.238.248.80/2099.php?id=1246
 欢笑剧场4K,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?Ace  
+百事通电影4K,http://156.238.248.80/2099.php?id=1247
+百事通少儿4K,http://156.238.248.80/2099.php?id=1248
+百事通电影4K,http://156.238.248.80/2099.php?id=1249
+百事通纪实4K,http://156.238.248.80/2099.php?id=1250
+华数4K,http://156.238.248.80/2099.php?id=1377
+华数4K,http://156.238.248.80/2099.php?id=1467
 华数4K,http://nas.201606.xyz:4022/udp/239.11.0.120:5140
 咪咕4K,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 咪咕4K-1,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
