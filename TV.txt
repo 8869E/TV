@@ -954,7 +954,7 @@ NEWTV潮妈辣婆,http://111.43.126.240:9003/hls/94/index.m3u8$五常移动
 NEWTV中国功夫,http://111.43.126.240:9003/hls/96/index.m3u8$五常移动
 NEWTV海外剧场,http://111.43.126.240:9003/hls/98/index.m3u8$五常移动
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-都市剧场,http://bfgd.sohu.blog:880/dx107.m3u8$DX
+CITY都市剧场,http://bfgd.sohu.blog:880/dx107.m3u8$DX
 黑莓电影,http://111.43.126.240:7777/hls/99/index.m3u8$哈尔滨
 
 
