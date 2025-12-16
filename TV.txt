@@ -1079,11 +1079,11 @@ CCTV14,http://111.43.126.240:7777/hls/72/index.m3u8$哈尔滨
 浙江卫视4K,http://go.bkpcp.top/mg$咪咕
 湖南卫视4K,http://go.bkpcp.top/mg/hunws$咪咕
 江苏卫视4K,http://218.206.221.78:90/hls/81/index.m3u8
-湖南卫视,https://migu.188766.xyz/?migutoken=3b5f7a66691a9823d08e87284264168b&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
-浙江卫视,https://migu.188766.xyz/?migutoken=6bc7af713f9f9c63d4c4ea339e70f58e&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
-东方卫视,https://migu.188766.xyz/?migutoken=8d0acc2e03aff2a49ce9cfbfb8f16e27&id=dfws&type=sz
-北京卫视,https://migu.188766.xyz/?migutoken=972ad6766d2968be6ceee7832bcb6897&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-深圳卫视,https://migu.188766.xyz/?migutoken=3245152fe4c305a1ae85149d18a55b63&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+湖南卫视4K,https://migu.188766.xyz/?migutoken=3b5f7a66691a9823d08e87284264168b&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+浙江卫视4K,https://migu.188766.xyz/?migutoken=6bc7af713f9f9c63d4c4ea339e70f58e&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+东方卫视4K,https://migu.188766.xyz/?migutoken=8d0acc2e03aff2a49ce9cfbfb8f16e27&id=dfws&type=sz
+北京卫视4K,https://migu.188766.xyz/?migutoken=972ad6766d2968be6ceee7832bcb6897&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+深圳卫视4K,https://migu.188766.xyz/?migutoken=3245152fe4c305a1ae85149d18a55b63&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
