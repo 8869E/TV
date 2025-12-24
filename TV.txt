@@ -17,7 +17,7 @@ CCTV15,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1
 CCTV16,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=yu&mode=1&$6M HEVC
 CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=yu&mode=1&$6M HEVC
 CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=yu&mode=1&$6M HEVC
-CCTV4K,http://156.238.248.80/2099.php?id=27
+CCTV4K,http://156.238.248.80/2099.php?id=57
 CCTV16 4K,http://156.238.248.80/2099.php?id=26
 CCTV8K,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816$央视
 CCTV4美洲,http://go.bkpcp.top/mg/cctv4m$咪咕
@@ -910,7 +910,7 @@ CCTV17,http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/32
 哒啵赛事,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=yu&mode=1&
 哒啵赛事,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006906&livemode=1&stbId=yu&mode=1&
 哒啵赛事,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=yu&mode=1&
-游戏竞技,http://156.238.248.80/2099.php?id=1361
+游戏竞技,http://156.238.248.80/2099.php?id=1553
 
 🎬电影电视剧频道,#genre#
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -931,6 +931,8 @@ CHC动作电影,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/
 CHC家庭影院,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8$四川蜀小果
 1905电影1,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 1905电影2,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
+CITY都市剧场,http://bfgd.sohu.blog:880/dx107.m3u8$DX
+欢笑剧场4K,http://156.238.248.80/2099.php?id=1435
 欢笑剧场4K,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/hxjc-4k_8000.m3u8?E&U&A&K&P&S$四川蜀小果
 NEWTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NEWTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
@@ -954,7 +956,7 @@ NEWTV潮妈辣婆,http://111.43.126.240:9003/hls/94/index.m3u8$五常移动
 NEWTV中国功夫,http://111.43.126.240:9003/hls/96/index.m3u8$五常移动
 NEWTV海外剧场,http://111.43.126.240:9003/hls/98/index.m3u8$五常移动
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-CITY都市剧场,http://bfgd.sohu.blog:880/dx107.m3u8$DX
+
 黑莓电影,http://111.43.126.240:7777/hls/99/index.m3u8$哈尔滨
 
 
@@ -1092,9 +1094,9 @@ CCTV14,http://111.43.126.240:7777/hls/72/index.m3u8$哈尔滨
 北京卫视4K,https://migu.188766.xyz/?migutoken=972ad6766d2968be6ceee7832bcb6897&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 深圳卫视4K,https://migu.188766.xyz/?migutoken=3245152fe4c305a1ae85149d18a55b63&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 
-深圳卫视4K,http://156.238.248.80/2099.php?id=25
-北京卫视4K,http://156.238.248.80/2099.php?id=22
-江苏卫视4K,http://156.238.248.80/2099.php?id=23
+深圳卫视4K,http://156.238.248.80/2099.php?id=170
+北京卫视4K,http://156.238.248.80/2099.php?id=168
+江苏卫视4K,http://156.238.248.80/2099.php?id=169
 广东卫视4K,http://156.238.248.80/2099.php?id=24
 东方卫视4K,http://183.61.225.53:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-4K/G_DONGFANG-4K.m3u8$江苏银河
 江苏卫视4K,http://183.61.225.53:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8$江苏银河
@@ -1131,14 +1133,14 @@ CCTV4K,http://183.61.225.53:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-
 TVB翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
 纯享4K,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=yu&mode=1&
 纯享4K,http://183.61.225.53:2380/js-live-screenshot.gitv.tv/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8$江苏银河
-欢笑剧场4K,http://156.238.248.80/2099.php?id=1243
+欢笑剧场4K,http://156.238.248.80/2099.php?id=1435
 欢笑剧场4K,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?Ace  
-百事通电影4K,http://156.238.248.80/2099.php?id=1244
-百事通少儿4K,http://156.238.248.80/2099.php?id=1245
-百事通电影4K,http://156.238.248.80/2099.php?id=1246
-百事通纪实4K,http://156.238.248.80/2099.php?id=1247
-华数4K,http://156.238.248.80/2099.php?id=1374
-华数4K,http://156.238.248.80/2099.php?id=1464
+百事通电影4K,http://156.238.248.80/2099.php?id=1436
+百事通少儿4K,http://156.238.248.80/2099.php?id=1437
+百事通电影4K,http://156.238.248.80/2099.php?id=1438
+百事通纪实4K,http://156.238.248.80/2099.php?id=1439
+华数4K,http://156.238.248.80/2099.php?id=1566
+华数4K,http://156.238.248.80/2099.php?id=1656
 华数4K,http://nas.201606.xyz:4022/udp/239.11.0.120:5140
 咪咕4K,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 咪咕4K-1,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
